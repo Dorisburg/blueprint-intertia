@@ -3,6 +3,7 @@
 namespace {{ namespace }};
 
 {{ imports }}
+use Inertia\Inertia;
 
 class {{ class }} extends Controller
 {
