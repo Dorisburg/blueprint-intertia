@@ -1,7 +1,7 @@
 {
-    "name": "laravel-shift/blueprint",
+    "name": "dorisburg/blueprint-intertia",
     "type": "library",
-    "description": "An expressive, human readable code generation tool.",
+    "description": "An expressive, human readable code generation tool, now for Intertia",
     "keywords": [
         "framework",
         "laravel",
